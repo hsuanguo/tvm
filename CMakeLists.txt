@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.2)
 project(tvm C CXX)
 
-# Utility functions
+# Utility functionss
 include(cmake/utils/Utils.cmake)
 include(cmake/utils/FindCUDA.cmake)
 include(cmake/utils/FindOpenCL.cmake)
